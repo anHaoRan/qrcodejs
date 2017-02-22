@@ -9,6 +9,7 @@ QRCode.js has no dependencies.
 new QRCode(document.getElementById("qrcode"), "http://jindo.dev.naver.com/collie");
 </script>
 ```
+#二维码生成
 
 or with some options
 
